@@ -1,7 +1,35 @@
 ﻿@page "/"
+@inject Services.UserSessionService UserSession
+@inject NavigationManager NavigationManager
 
-<PageTitle>Home</PageTitle>
+<h3>Event Registration</h3>
 
-<h1>Hello, world!</h1>
+<EditForm Model="@user" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
 
-Welcome to your new app.
+    <div>
+        <label>Name:</label>
+        <InputText @bind-Value="user.Name" />
+    </div>
+    <div>
+        <label>Email:</label>
+        <InputText @bind-Value="user.Email" />
+    </div>
+    <div>
+        <label>Will you attend?</label>
+        <InputCheckbox @bind-Value="user.IsAttending" />
+    </div>
+
+    <button type="submit">Register</button>
+</EditForm>
+
+@code {
+    private Models.User user = new();
+
+    private void HandleValidSubmit()
+    {
+        UserSession.SetUser(user);
+        NavigationManager.NavigateTo("/summary");
+    }
+}

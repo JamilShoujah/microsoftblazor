@@ -9,8 +9,6 @@
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.radqqa9afb.pdb
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.rnbla2rvv2.wasm
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.qji3ksdopo.wasm
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.vmzb2angnn.wasm
@@ -209,7 +207,6 @@
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Threading.ThreadPool.vtcexxwpo3.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Collections.k7eocx66k5.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Text.Encoding.Extensions.31quu9rg9b.wasm.gz
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.radqqa9afb.pdb.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Private.Xml.2mep7n6yu4.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Serialization.Json.z0nxu35yve.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Data.DataSetExtensions.drrqo6rbpu.wasm.gz
@@ -303,7 +300,6 @@
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Reflection.Metadata.act044hy0s.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Csp.tqrnaro11n.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Primitives.j8wpr8jzql.wasm.gz
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.rnbla2rvv2.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Text.Encoding.CodePages.17ak399x9u.wasm.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/dotnet.js.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.ObjectModel.dpibji9kbk.wasm.gz
@@ -1064,9 +1060,6 @@
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/h3zubxgkaz-tjcz0u77k5.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/s7jft7r9h9-tptq2av103.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/344d42bil6-lfu7j35m59.gz
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-rnbla2rvv2.gz
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-radqqa9afb.gz
-/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-mk8zj820k7.gz
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/staticwebassets.build.json
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/staticwebassets.development.json
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -1081,3 +1074,11 @@
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/refint/microsoft-blazor-exam.dll
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/microsoft-blazor-exam.pdb
 /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/ref/microsoft-blazor-exam.dll
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/microsoft-blazor-exam.sourcelink.json
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.s8cf5ha3bw.pdb
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.hf8e4z3yv7.wasm
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.s8cf5ha3bw.pdb.gz
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.hf8e4z3yv7.wasm.gz
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-hf8e4z3yv7.gz
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-s8cf5ha3bw.gz
+/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-hm24et7dkh.gz
