@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HPtOwPikI0lihD+n+yyelTMPJXZ7JJuKVPZpWHrFd78=",
+  "Hash": "ALeMEk+UvXMO7ndzAY2xBUnuW/emaw3dEPK5F0grOdg=",
   "Source": "microsoft-blazor-exam",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "mk8zj820k7",
-      "Integrity": "2racjKi3yYXXsNJA4bjUSrEaKbEux626bC4s2ITdwxI=",
+      "Fingerprint": "hm24et7dkh",
+      "Integrity": "twcXsk4gz0+gXXbibrSoYwEUMTpO15UB4kOfPt3e+uI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "radqqa9afb",
-      "Integrity": "LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac=",
+      "Fingerprint": "s8cf5ha3bw",
+      "Integrity": "RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/microsoft-blazor-exam.pdb"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "rnbla2rvv2",
-      "Integrity": "uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI=",
+      "Fingerprint": "hf8e4z3yv7",
+      "Integrity": "0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/webcil/microsoft-blazor-exam.wasm"
@@ -4532,12 +4532,12 @@
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/System.Text.Encoding.Extensions.wasm"
     },
     {
-      "Identity": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-radqqa9afb.gz",
+      "Identity": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-s8cf5ha3bw.gz",
       "SourceId": "microsoft-blazor-exam",
       "SourceType": "Computed",
       "ContentRoot": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/microsoft-blazor-exam#[.{fingerprint=radqqa9afb}]!.pdb.gz",
+      "RelativePath": "_framework/microsoft-blazor-exam#[.{fingerprint=s8cf5ha3bw}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4546,8 +4546,8 @@
       "RelatedAsset": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rq87izin36",
-      "Integrity": "A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA=",
+      "Fingerprint": "v50l1eom75",
+      "Integrity": "7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.pdb"
@@ -4784,7 +4784,7 @@
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/wwwroot/index.html"
     },
     {
-      "Identity": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-mk8zj820k7.gz",
+      "Identity": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-hm24et7dkh.gz",
       "SourceId": "microsoft-blazor-exam",
       "SourceType": "Computed",
       "ContentRoot": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/",
@@ -4798,8 +4798,8 @@
       "RelatedAsset": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qj29nynhqb",
-      "Integrity": "2pvPIZ2I6VajCTo1c0qHm23851EZce1KN6C+sHOCstI=",
+      "Fingerprint": "12dzyj4bja",
+      "Integrity": "J0XBR7oeisCcm0Wjv8rHAvPB8Ovw/ThzRab5I0CZSlQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -6989,12 +6989,12 @@
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "Identity": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-rnbla2rvv2.gz",
+      "Identity": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-hf8e4z3yv7.gz",
       "SourceId": "microsoft-blazor-exam",
       "SourceType": "Computed",
       "ContentRoot": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/microsoft-blazor-exam#[.{fingerprint=rnbla2rvv2}]!.wasm.gz",
+      "RelativePath": "_framework/microsoft-blazor-exam#[.{fingerprint=hf8e4z3yv7}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7003,8 +7003,8 @@
       "RelatedAsset": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qz4u96y014",
-      "Integrity": "OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA=",
+      "Fingerprint": "kcu1t9ao7d",
+      "Integrity": "5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.wasm"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2racjKi3yYXXsNJA4bjUSrEaKbEux626bC4s2ITdwxI=\""
+          "Value": "\"twcXsk4gz0+gXXbibrSoYwEUMTpO15UB4kOfPt3e+uI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10719,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2racjKi3yYXXsNJA4bjUSrEaKbEux626bC4s2ITdwxI="
+          "Value": "sha256-twcXsk4gz0+gXXbibrSoYwEUMTpO15UB4kOfPt3e+uI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-mk8zj820k7.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-hm24et7dkh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081294204"
+          "Quality": "0.000081327261"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10740,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12300"
+          "Value": "12295"
         },
         {
           "Name": "ETag",
-          "Value": "\"2pvPIZ2I6VajCTo1c0qHm23851EZce1KN6C+sHOCstI=\""
+          "Value": "\"J0XBR7oeisCcm0Wjv8rHAvPB8Ovw/ThzRab5I0CZSlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:07:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2racjKi3yYXXsNJA4bjUSrEaKbEux626bC4s2ITdwxI=\""
+          "Value": "W/\"twcXsk4gz0+gXXbibrSoYwEUMTpO15UB4kOfPt3e+uI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2racjKi3yYXXsNJA4bjUSrEaKbEux626bC4s2ITdwxI="
+          "Value": "sha256-twcXsk4gz0+gXXbibrSoYwEUMTpO15UB4kOfPt3e+uI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-mk8zj820k7.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/3dxp3avj8w-hm24et7dkh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12300"
+          "Value": "12295"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2pvPIZ2I6VajCTo1c0qHm23851EZce1KN6C+sHOCstI=\""
+          "Value": "\"J0XBR7oeisCcm0Wjv8rHAvPB8Ovw/ThzRab5I0CZSlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:07:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2pvPIZ2I6VajCTo1c0qHm23851EZce1KN6C+sHOCstI="
+          "Value": "sha256-J0XBR7oeisCcm0Wjv8rHAvPB8Ovw/ThzRab5I0CZSlQ="
         }
       ]
     },
@@ -10885,7 +10885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 13 Feb 2025 03:03:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10938,7 +10938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 13 Feb 2025 03:03:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11030,7 +11030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11091,7 +11091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11183,7 +11183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11283,7 +11283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11344,7 +11344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11397,7 +11397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11481,7 +11481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11534,7 +11534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12351,7 +12351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12404,7 +12404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12496,7 +12496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12557,7 +12557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13643,305 +13643,7 @@
       ]
     },
     {
-      "Route": "_framework/microsoft-blazor-exam.pdb",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/microsoft-blazor-exam.pdb",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-radqqa9afb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000058640708"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17052"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/microsoft-blazor-exam.pdb.gz",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-radqqa9afb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17052"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/microsoft-blazor-exam.radqqa9afb.pdb",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "radqqa9afb"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/microsoft-blazor-exam.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/microsoft-blazor-exam.radqqa9afb.pdb",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-radqqa9afb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000058640708"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17052"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "radqqa9afb"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/microsoft-blazor-exam.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LWjHXLy+rDSlP69IWMBv1lSIIOwA+JSmuXNPt4RF8ac="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/microsoft-blazor-exam.radqqa9afb.pdb.gz",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-radqqa9afb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17052"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "radqqa9afb"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/microsoft-blazor-exam.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A8YoWXB9SohaBRtyJ5kzlQ/DvbdzVTgB1bsRXgm6iRA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/microsoft-blazor-exam.rnbla2rvv2.wasm",
+      "Route": "_framework/microsoft-blazor-exam.hf8e4z3yv7.wasm",
       "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13951,7 +13653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18197"
+          "Value": "18709"
         },
         {
           "Name": "Content-Type",
@@ -13959,11 +13661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI=\""
+          "Value": "\"0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:43 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13973,7 +13675,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rnbla2rvv2"
+          "Value": "hf8e4z3yv7"
         },
         {
           "Name": "label",
@@ -13981,18 +13683,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI="
+          "Value": "sha256-0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8="
         }
       ]
     },
     {
-      "Route": "_framework/microsoft-blazor-exam.rnbla2rvv2.wasm",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-rnbla2rvv2.gz",
+      "Route": "_framework/microsoft-blazor-exam.hf8e4z3yv7.wasm",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-hf8e4z3yv7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000129366106"
+          "Quality": "0.000124610592"
         }
       ],
       "ResponseHeaders": [
@@ -14002,15 +13704,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7729"
+          "Value": "8024"
         },
         {
           "Name": "ETag",
-          "Value": "\"OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA=\""
+          "Value": "\"5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14030,13 +13732,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI=\""
+          "Value": "W/\"0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rnbla2rvv2"
+          "Value": "hf8e4z3yv7"
         },
         {
           "Name": "label",
@@ -14044,13 +13746,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI="
+          "Value": "sha256-0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8="
         }
       ]
     },
     {
-      "Route": "_framework/microsoft-blazor-exam.rnbla2rvv2.wasm.gz",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-rnbla2rvv2.gz",
+      "Route": "_framework/microsoft-blazor-exam.hf8e4z3yv7.wasm.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-hf8e4z3yv7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14059,7 +13761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7729"
+          "Value": "8024"
         },
         {
           "Name": "Content-Type",
@@ -14067,11 +13769,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA=\""
+          "Value": "\"5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14089,7 +13791,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rnbla2rvv2"
+          "Value": "hf8e4z3yv7"
         },
         {
           "Name": "label",
@@ -14097,7 +13799,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA="
+          "Value": "sha256-5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/microsoft-blazor-exam.pdb",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:09:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/microsoft-blazor-exam.pdb",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-s8cf5ha3bw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060694343"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16475"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/microsoft-blazor-exam.pdb.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-s8cf5ha3bw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/microsoft-blazor-exam.s8cf5ha3bw.pdb",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/bin/Debug/net9.0/wwwroot/_framework/microsoft-blazor-exam.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:09:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8cf5ha3bw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/microsoft-blazor-exam.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/microsoft-blazor-exam.s8cf5ha3bw.pdb",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-s8cf5ha3bw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060694343"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16475"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8cf5ha3bw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/microsoft-blazor-exam.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RKsTs2vNUiOm2xSo9k5PitalZtin/KPjfDu8wzmiDHw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/microsoft-blazor-exam.s8cf5ha3bw.pdb.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/1r2h2dwwrx-s8cf5ha3bw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8cf5ha3bw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/microsoft-blazor-exam.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7XJECZzV9jagt8j7RJdC0rnur+k7K8SmUoPljaAKbEM="
         }
       ]
     },
@@ -14112,7 +14112,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18197"
+          "Value": "18709"
         },
         {
           "Name": "Content-Type",
@@ -14120,11 +14120,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI=\""
+          "Value": "\"0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:43 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14134,18 +14134,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI="
+          "Value": "sha256-0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8="
         }
       ]
     },
     {
       "Route": "_framework/microsoft-blazor-exam.wasm",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-rnbla2rvv2.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-hf8e4z3yv7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000129366106"
+          "Quality": "0.000124610592"
         }
       ],
       "ResponseHeaders": [
@@ -14155,15 +14155,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7729"
+          "Value": "8024"
         },
         {
           "Name": "ETag",
-          "Value": "\"OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA=\""
+          "Value": "\"5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14183,19 +14183,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI=\""
+          "Value": "W/\"0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uc+jPNyC5AHEhaK4hWMdDXZ0WdH0yyVs/g8iCnnonpI="
+          "Value": "sha256-0z1+9dBQ/I3B3Zdw1Gdn1x8Yown1ys0XUSKW5Ojp5y8="
         }
       ]
     },
     {
       "Route": "_framework/microsoft-blazor-exam.wasm.gz",
-      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-rnbla2rvv2.gz",
+      "AssetFile": "/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/obj/Debug/net9.0/compressed/kaqcaj444e-hf8e4z3yv7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14204,7 +14204,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7729"
+          "Value": "8024"
         },
         {
           "Name": "Content-Type",
@@ -14212,11 +14212,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA=\""
+          "Value": "\"5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 11:23:44 GMT"
+          "Value": "Thu, 17 Apr 2025 12:09:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14234,7 +14234,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OuoiHlmyj8HSFm5ObpusRWBWaQsOd1hSt+2BcGlLrQA="
+          "Value": "sha256-5PBfJ6gdy9UmgUCjZjTvbWnMr1hJXOvM7Dned/yctbg="
         }
       ]
     },

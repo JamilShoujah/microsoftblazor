@@ -11,8 +11,8 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.RootNamespace = microsoft-blazor-exam
-build_property.RootNamespace = microsoft-blazor-exam
+build_property.RootNamespace = microsoft_blazor_exam
+build_property.RootNamespace = microsoft_blazor_exam
 build_property.ProjectDir = /Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
@@ -28,16 +28,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+[/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/Pages/Summary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3VtbWFyeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jamilshoujah/Desktop/microsoftCertificate/microsoft-blazor-exam/_Imports.razor]

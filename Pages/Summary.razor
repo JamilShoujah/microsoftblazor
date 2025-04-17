@@ -1,0 +1,16 @@
+@page "/summary"
+@inject Services.UserSessionService UserSession
+
+<h3>Registration Summary</h3>
+
+@if (UserSession.IsUserRegistered())
+{
+    var user = UserSession.GetCurrentUser();
+    <p><strong>Name:</strong> @user.Name</p>
+    <p><strong>Email:</strong> @user.Email</p>
+    <p><strong>Attending:</strong> @(user.IsAttending ? "Yes" : "No")</p>
+}
+else
+{
+    <p>No user registered. Please <a href="/register">register</a>.</p>
+}
